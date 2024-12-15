@@ -1,0 +1,68 @@
+Privacy Policy for PushIt
+
+Effective Date: 15.12.2024
+
+At PushIt, we value your privacy and are committed to protecting your personal information. This Privacy Policy explains how we collect, use, and protect the information you provide when using our mobile application ("PushIt"). By using PushIt, you agree to the practices outlined in this policy.
+
+1. Information We Do Not Collect
+
+PushIt is designed to prioritize your privacy. We do not:
+
+Require user registration.
+
+Collect personal information such as your name, email address, phone number, or any other personally identifiable data.
+
+2. Information We May Collect
+
+To improve the app’s functionality and user experience, PushIt may collect the following non-personal information:
+
+Device Information: We may collect anonymized data such as your device type, operating system, and app version to ensure compatibility and optimize performance.
+
+Usage Data: This includes aggregated data about how users interact with the app, such as the number of votes cast and time spent within the app.
+
+Analytics Data: We may use third-party analytics tools to track app performance and usage trends. These tools collect anonymized data that cannot be used to identify you.
+
+3. How We Use the Information
+
+The information we collect is used to:
+
+Improve the app’s features and user experience.
+
+Monitor and analyze usage patterns to ensure the app operates smoothly.
+
+Fix bugs and optimize app performance.
+
+4. Data Sharing and Disclosure
+
+We do not sell, trade, or share your personal information with third parties. However, we may share anonymized data with service providers to help us analyze app performance and improve functionality.
+
+5. Data Security
+
+We take reasonable measures to protect the limited data we collect. These measures include:
+
+Encryption of data during transmission.
+
+Regular security assessments of our systems.
+
+While we strive to protect your information, no method of transmission or electronic storage is 100% secure. Therefore, we cannot guarantee absolute security.
+
+6. Children’s Privacy
+
+PushIt is not directed at children under the age of 13. We do not knowingly collect personal information from children. If you believe a child has provided us with information, please contact us so we can delete it.
+
+7. Your Privacy Choices
+
+Since we do not collect personal information, there are no specific privacy settings to manage. You can stop all data collection by uninstalling the app from your device.
+
+8. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We encourage you to review this policy periodically.
+
+9. Contact Us
+
+If you have any questions or concerns about this Privacy Policy, please contact us at:
+
+Email: a1368115@me.com. Address: Russia, Moscow
+
+Thank you for using PushIt. We are committed to providing you with a secure and enjoyable experience.
+
